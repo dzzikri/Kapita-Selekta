@@ -1,9 +1,9 @@
 Kapita Selekta Pertemuan 1
 
-Nama	: Dzikri Ahmad Ghifari
-NPM	; 1144077
-Kelas	: 3A
-Prodi	: Teknik Informatika
+* Nama	: Dzikri Ahmad Ghifari *
+* NPM	; 1144077 *
+* Kelas	: 3A * 
+* Prodi	: Teknik Informatika *
 
 Latar Belakang Masalah
 1. Apa itu Github?
@@ -12,7 +12,7 @@ Latar Belakang Masalah
 4. Apa itu Organization?
 5. Fungsi menggunakan github? 
 
-
+Link gambar : Kapita-Selekta/img/Capture.JPG 
  
 Github adalah suatu website yang memberikan layanan untuk menyimpan repository atau file code program yang telah anda buat secara gratis. Di github juga kita dapat berkolaborasi denggan pengguna lainnya untuk menyelesaikan suatu projek dengan fitur pull request, diskusi di patch, mengatur bug dan lain lain 
 
