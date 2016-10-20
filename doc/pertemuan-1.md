@@ -1,9 +1,9 @@
 Kapita Selekta Pertemuan 1
 
-* Nama	: Dzikri Ahmad Ghifari *
-* NPM	; 1144077 *
-* Kelas	: 3A * 
-* Prodi	: Teknik Informatika *
+* Nama	: Dzikri Ahmad Ghifari 
+* NPM	; 1144077 
+* Kelas	: 3A 
+* Prodi	: Teknik Informatika 
 
 Latar Belakang Masalah
 1. Apa itu Github?
